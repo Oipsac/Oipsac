@@ -13,7 +13,7 @@ h3 {
     margin-bottom: 0;
     font: bold 12px Verdana;
     list-style-type: none;
-    text-align: left; /*set to left, center, or right to align the menu as desired*/
+    text-align: right; /*set to left, center, or right to align the menu as desired*/
     }
     
     .shadetabs li{
